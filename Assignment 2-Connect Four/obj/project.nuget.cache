@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r4oCV3OkRjI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\n.kumaraguru540\\Documents\\Nithish Velu\\Game Programming\\Assignment 2-Connect Four\\game1401_la_starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n.kumaraguru540\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\n.kumaraguru540\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\n.kumaraguru540\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\n.kumaraguru540\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
